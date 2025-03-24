@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Jared Peters</h1>
+<h3 align="center">Data Analyst at Cook County Bureau of Asset Management</h3>
 
-<!--
-**petersjared5/petersjared5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I hold an M.S. in Management from Georgetown University and a B.A. in Political Science and History from the University of Michigan. I’ve developed skills in **data analysis, business analytics, and statistical techniques.**
 
-Here are some ideas to get you started:
+- 🚌 With a background in data analytics and business management, I’m passionate about using data to drive improvements in the public and private sectors. I’m particularly interested in how data-driven insights can shape policies and systems that improve the quality of life in communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **petersjared5@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jared-peters-728671153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jared-peters-728671153/" height="30" width="40" /></a>
+</p>
