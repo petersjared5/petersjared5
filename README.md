@@ -10,4 +10,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jared-peters-728671153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jared-peters-728671153/" height="30" width="40" /></a>
+<a href="https://public.tableau.com/app/profile/jared.peters6662/vizzes" target="_blank"><img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" alt="Tableau Public" width="60" height="60"></a> 
 </p>
